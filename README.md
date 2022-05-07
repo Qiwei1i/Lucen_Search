@@ -10,11 +10,11 @@ The Project Gutenberg eBook of Questions at Issue in Our English Speech, by Edwi
 
 ### Requirement:
 
-    The search result should be shown as a paragraph in the GUI and the related word should be highlighted. If there is more than one word in the text, show all possible paragraphs. The user should be able to scroll through the GUI and see different paragraphs that have the text.
+  The search result should be shown as a paragraph in the GUI and the related word should be highlighted. If there is more than one word in the text, show all possible paragraphs. The user should be able to scroll through the GUI and see different paragraphs that have the text.
 
-    Keywords should be extracted automatically from the text. This means one part of your project is constructing the list of indexes. To extract keywords, you can use algorithms such as Rake, LSA, LDA (Topic Modelling), etc. You need to explore approaches for keyword extraction from the text and find the appropriate one, on your own.
+  Keywords should be extracted automatically from the text. This means one part of your project is constructing the list of indexes. To extract keywords, you can use algorithms such as Rake, LSA, LDA (Topic Modelling), etc. You need to explore approaches for keyword extraction from the text and find the appropriate one, on your own.
 
-    The search should be implemented with Lucene (or any other indexing mechanism) and Brute Force. Then, you should experiment and plot the scalability of your search for both indexing and Brute force.
+  The search should be implemented with Lucene (or any other indexing mechanism) and Brute Force. Then, you should experiment and plot the scalability of your search for both indexing and Brute force.
 
 ------------------------------------------------------------------------------------------
 
