@@ -13,6 +13,8 @@ Keywords should be extracted automatically from the text. This means one part of
 
 The search should be implemented with Lucene (or any other indexing mechanism) and Brute Force. Then, you should experiment and plot the scalability of your search for both indexing and Brute force.
 
+------------------------------------------------------------------------------------------
+
 ### How it looks like
 ![Image discription](https://github.com/Qiwei1i/img-storage/blob/main/LucenSearchOne.png)
 ![Image discription](https://github.com/Qiwei1i/img-storage/blob/main/LucenSearchTwo.png)
